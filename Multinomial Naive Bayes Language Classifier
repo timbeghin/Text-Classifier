@@ -22,7 +22,7 @@ from sklearn.naive_bayes import MultinomialNB          # Used to call the Multin
                                    ## Part 2: Data Import and cleaning ##
     
 # >> import the csv file    
-path = 'C:\\Users\\DELL\\Downloads\\lang_data.csv' 
+path = "INSERT ROUTE TO CSV FILE"
 DATA = pd.read_csv(path)
 
 #  >>drop NaN
